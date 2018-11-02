@@ -33,7 +33,7 @@ Below is how you can remove the entries using the scripts and zone files.
  
 ## Built With
 
-* Powershell - The language
+* PowerShell - The language
 
 ## Authors
 
