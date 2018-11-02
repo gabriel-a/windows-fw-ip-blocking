@@ -1,5 +1,5 @@
 # windows-fw-ip-blocking
-Windows Firewall Script To block spamhaus ip addresses
+Windows Firewall Script To block Spamhaus ip addresses
 
 How to add Spamhuis in Windows Firewall with PowerShell.
 
@@ -30,3 +30,20 @@ Below is how you can remove the entries using the scripts and zone files.
  Option 1: Program.ps1
 
  Option 2:.\Program.ps1
+ 
+## Built With
+
+* Powershell - The language
+
+## Authors
+
+* **Gabriel Ajabahian** - *Initial work* - [gabriel-a](https://github.com/gabriel-a)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Acknowledgments
+
+* Thanks to Jason Fossen (http://www.sans.org/windows-security/) This script is just a wrapper around his 
+PowerShell automation script.

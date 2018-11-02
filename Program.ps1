@@ -10,8 +10,10 @@
 #
 #Requires -Version 1.0 
 #
+# This program is based on http://www.sans.org/windows-security/
+#
 #.Notes 
-#  Author: Gabriel Ajabahian (http://www.sans.org/windows-security/)  
+#  Author: Gabriel Ajabahian (https://github.com/gabriel-a/windows-fw-ip-blocking)
 # Version: 1.0
 # Updated: 02.NOV.2018
 #   LEGAL: PUBLIC DOMAIN.  SCRIPT PROVIDED "AS IS" WITH NO WARRANTIES OR GUARANTEES OF 
